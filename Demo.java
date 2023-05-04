@@ -8,5 +8,7 @@ public class Demo {
         System.out.println("mahrewshjg");
         System.out.println("mahrewshjg");
         System.out.println("mahrewshjg");
+        System.out.println("ffffffg");
+        System.out.println("fgggggggg");
     }
 }
